@@ -14,4 +14,9 @@ We'd like to thank some additional amazing people, who contributed a lot in nucl
 - [@wdahlenburg](https://www.github.com/wdahlenburg) - For adding wildcard globing support to run templates.
 - [@Marmelatze](https://www.github.com/Marmelatze) - For adding support to save matched request/response in JSON format. 
 - [@ankh2054](https://www.github.com/ankh2054) - For adding description field for template information.
+
 - [@rotemreiss](https://www.github.com/rotemreiss) - For adding docker support.
+
+- - [@rotemreiss](https://www.github.com/rotemreiss) - For adding docker support.
+ 
+  - - [@rotemreiss](https://www.github.com/rotemreiss) - For adding docker support.
